@@ -1,0 +1,6 @@
+root = open("deneme.txt","r",encoding="utf8")
+print(root.read())
+print(50*"_")
+root.seek(2)
+print(root.read())
+print(root.tell())
