@@ -4,7 +4,7 @@ NOT DEFTERİ
 1)Bilgi ekle
 2)Oku
 3)Sil
-4)kapat q
+4)Kapat q
 
 
 """)
